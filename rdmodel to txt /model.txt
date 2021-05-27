@@ -1,0 +1,20 @@
+XXXTable
+nFullFiles:     14,3 
+OptaTable:      'g2v_marcs_idmean3x_12.opta'
+OptaBins:        12
+DirectoryFull:  'bigsel_20ss','smallsel_3ss'
+FileEOS:        'eos_cifist2006_m00_a00_l5.eos' 
+FileGAS:        'gas_cifist2006_m00_a00_l5.eos'
+DirectoryLHD:   'lhdmodels' 
+FileLHDa05a10a15a20: '','', 't5780g44mm00ml3a15ob12_marcs.l50','t5780g44mm00ml3a20ob12_marcs.l50' 
+FileReadme:     'bigsel_20ss/readme.txt','smallsel_3ss/readme.txt' 
+Nxyz:            140 140 150
+Lxyz:            5.8e10 5.8e10 7.0e10 
+TeffNominal:     5800.00
+TeffSelection:   5780.43 
+Grav:            5.0  
+M_H:             0.0  
+alpha_Fe:        0.0                      
+CNO_Fe:          0.0 0.0 0.0 
+FilePar:         'scripts/parameter.in'
+FileMSMean:      'scripts/avg_z_tau_02_49.idlsave' 

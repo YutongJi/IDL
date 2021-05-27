@@ -1,0 +1,2804 @@
+xxxTable
+
+ModelID: 			      name of the model
+nFUllfiles: 			      numbers of full files in bigsel(first)/smallsel(second)
+Directoryfull:                        direcoties which contain full files
+DirectoryLHD:                         directory which contains lhdmodels
+FileLHDa05a10a15a20:                  lhd files
+FileReadme:                           readme file in the model
+FileMSMean:                           MSmean file in the model
+FilePar:                              location of the par file
+OptaTable:                            opta file of the model
+Optabins: 			      nbands in opta file
+FileEOS:			      corresponding EOS file
+FileGAS: 			      corresponding GAS file
+Nxyz: 			              numbers of grinds in x/y/z directions
+Lxyz:				      physical size of the model
+TeffNominal:    		      effective temperature inferred from model name
+TeffSelection:			      effective temperature in readme files 
+Grav: 				      gravity
+M_H: 				      metalicity
+alpha_Fe: 			      alpha enhancement
+CN0_Fe: 			      CN0 enhancement
+
+ModelID:                              'd3gt50g44n02'
+nFullFiles:                           0  0
+DirectoryFull:                        ''   ''
+DirectoryLHD:                         ''
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           ''  ''
+FileMSMean:                           ''
+FilePar:                              ''
+OptaTable:                            ''
+OptaBins:                             999
+FileEOS:                              ''
+FileGAS:                              ''
+Nxyz:                                 140  140  150
+Lxyz:                                 2.48543e+08  2.48543e+08  4.85269e+08
+TeffNominal:                          999
+TeffSelection:                        999  999
+Grav:                                 999
+M_H:                                  999
+alpha_Fe:                             999
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3gt57g44b000m592'
+nFullFiles:                           20  0
+DirectoryFull:                        'bigsel/'   ''
+DirectoryLHD:                         ''
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           ''  ''
+FileMSMean:                           ''
+FilePar:                              'par/d3gt57g44b000m592.par'
+OptaTable:                            'g2v_marcs_idmean3x_12.opta'
+OptaBins:                             12
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 2.26891e+08  2.26891e+08  5.6e+08
+TeffNominal:                          5770.00
+TeffSelection:                        999  999
+Grav:                                 27500.0
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3gt57g44b050m592'
+nFullFiles:                           20  0
+DirectoryFull:                        'bigsel/'   ''
+DirectoryLHD:                         ''
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           ''  ''
+FileMSMean:                           ''
+FilePar:                              'par/d3gt57g44b050m592.par'
+OptaTable:                            'g2v_marcs_idmean3x_12.opta'
+OptaBins:                             12
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 2.26891e+08  2.26891e+08  5.6e+08
+TeffNominal:                          5770.00
+TeffSelection:                        999  999
+Grav:                                 27500.0
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3gt57g44b100m592'
+nFullFiles:                           20  0
+DirectoryFull:                        'bigsel/'   ''
+DirectoryLHD:                         ''
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           ''  ''
+FileMSMean:                           ''
+FilePar:                              'par/d3gt57g44b100m592.par'
+OptaTable:                            'g2v_marcs_idmean3x_12.opta'
+OptaBins:                             12
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 2.26891e+08  2.26891e+08  5.6e+08
+TeffNominal:                          5770.00
+TeffSelection:                        999  999
+Grav:                                 27500.0
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3gt57g44b200m592'
+nFullFiles:                           20  0
+DirectoryFull:                        'bigsel/'   ''
+DirectoryLHD:                         ''
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           ''  ''
+FileMSMean:                           ''
+FilePar:                              'par/d3gt57g44b200m592.par'
+OptaTable:                            'g2v_marcs_idmean3x_12.opta'
+OptaBins:                             12
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 2.26891e+08  2.26891e+08  5.6e+08
+TeffNominal:                          5770.00
+TeffSelection:                        999  999
+Grav:                                 27500.0
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3gt57g44msc600'
+nFullFiles:                           20  0
+DirectoryFull:                        'bigsel/'   ''
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5773g44mm00ml3a05ob12_marcs.l50'
+                                      't5773g44mm00ml3a10ob12_marcs.l50'
+                                      't5773g44mm00ml3a15ob12_marcs.l50'
+                                      't5773g44mm00ml3a20ob12_marcs.l50'
+FileReadme:                           'bigsel/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/d3gt57g44msc600.par'
+OptaTable:                            'g2v_marcs_idmean3x_12.opta'
+OptaBins:                             12
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 250  250  207
+Lxyz:                                 2.2625e+08  2.2625e+08  8e+08
+TeffNominal:                          5770.00
+Grav:                                 27500.0
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3gt57g44n57'
+nFullFiles:                           0  0
+DirectoryFull:                        ''   ''
+DirectoryLHD:                         ''
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           ''  ''
+FileMSMean:                           'd3gt57g44n57.subset-oxygen.avg_z_tau.idlsave'
+FilePar:                              'rhd.par'
+OptaTable:                            'g2v_marcs_idmean3x.opta'
+OptaBins:                             5
+FileEOS:                              'eos_mm00_l.eos'
+FileGAS:                              'gas_mm00_l.eos'
+Nxyz:                                 3  3  111
+Lxyz:                                 1.99917e+08  1.99917e+08  5.26904e+06
+TeffNominal:                          5770.00
+TeffSelection:                        999  999
+Grav:                                 27500.0
+M_H:                                  999
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3gt57g44n58'
+nFullFiles:                           0  0
+DirectoryFull:                        ''   ''
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           ''  ''
+FileMSMean:                           ''
+FilePar:                              'rhd.par'
+OptaTable:                            'g2v_marcs_idmean3x_12.opta'
+OptaBins:                             12
+FileEOS:                              'eos_mm00_l.eos'
+FileGAS:                              'gas_mm00_l.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 2.26891e+08  2.26891e+08  5.6e+08
+TeffNominal:                          5770.00
+TeffSelection:                        999  999
+Grav:                                 27500.0
+M_H:                                  999
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3gt57g44n59'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            'g2v_marcs_idmean3x_12.opta'
+OptaBins:                             12
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 2.26891e+08  2.26891e+08  5.6e+08
+TeffNominal:                          5770.00
+Grav:                                 27500.0
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3gt57g44n59x8'
+nFullFiles:                           0  0
+DirectoryFull:                        ''   ''
+DirectoryLHD:                         ''
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           ''  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            'g2v_marcs_idmean3x_12.opta'
+OptaBins:                             12
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 280  280  300
+Lxyz:                                 2.26891e+08  2.26891e+08  5.6e+08
+TeffNominal:                          5770.00
+TeffSelection:                        999  999
+Grav:                                 27500.0
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3gt57m2g44n59'
+nFullFiles:                           20  0
+DirectoryFull:                        'bigsel_20ss/'   ''
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5540g44mm00ml3a05ob12_marcs.l50'
+                                      't5780g44mm00ml3a05ob12_marcs.l50'
+                                      't5540g44mm00ml3a10ob12_marcs.l50'
+                                      't5540g44mm00ml3a15ob12_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            'g2v_marcs_idmean3x_12.opta'
+OptaBins:                             12
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 2.26891e+08  2.26891e+08  5.6e+08
+TeffNominal:                          5570.00
+Grav:                                 27500.0
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3gt57p2g44n59'
+nFullFiles:                           20  0
+DirectoryFull:                        'bigsel_20ss/'   ''
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't6080g44mm00ml3a05ob12_marcs.l50'
+                                      't6080g44mm00ml3a10ob12_marcs.l50'
+                                      't6080g44mm00ml3a15ob12_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'bigsel_20ss/rhd.par'
+OptaTable:                            'g2v_marcs_idmean3x_12.opta'
+OptaBins:                             12
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 2.26891e+08  2.26891e+08  5.6e+08
+TeffNominal:                          5970.00
+Grav:                                 27500.0
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t36g10mm00n02'
+nFullFiles:                           0  3
+DirectoryFull:                        ''   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't3650g10mm00ml3a10ob5_marcs.l50'
+                                      't3650g10mm00ml3a20ob5_marcs.l50'
+FileReadme:                           ''  'smallsel_3ss/readme.txt'
+FileMSMean:                           'scripts/d3t36g10mm00n02.30-87.avg_z_tau.idlsave'
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't3600g000mm00_marcs_idmean3x.opta'
+OptaBins:                             5
+FileEOS:                              'eos_mm00_l4.eos'
+FileGAS:                              'gas_mm00_l4.eos'
+Nxyz:                                 150  150  151
+Lxyz:                                 1.04295e+12  1.04295e+12  1.575e+12
+TeffNominal:                          3600.00
+Grav:                                 10.0
+M_H:                                  999
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t36g10mm10n01'
+nFullFiles:                           0  0
+DirectoryFull:                        ''   ''
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4020g10mm10ml3a05ob6_marcs.l50'
+                                      't4020g10mm10ml3a20ob6_marcs.l50'
+FileReadme:                           ''  ''
+FileMSMean:                           ''
+FilePar:                              ''
+OptaTable:                            ''
+OptaBins:                             999
+FileEOS:                              ''
+FileGAS:                              ''
+Nxyz:                                 150  150  151
+Lxyz:                                 1.04295e+12  1.04295e+12  1.575e+12
+TeffNominal:                          999
+TeffSelection:                        999  999
+Grav:                                 999
+M_H:                                  999
+alpha_Fe:                             999
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t38g40mm00n2'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't3810g40mm00a05ob5_marcs.l50'
+                                      't3810g40mm00a10ob5_marcs.l50'
+                                      't3810g40mm00a15ob5_marcs.l50'
+                                      't3810g40mm00a20ob5_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't3800g400mm00_marcs_idmean3x.opta'
+OptaBins:                             5
+FileEOS:                              'eos_mm00_l4.eos'
+FileGAS:                              'gas_mm00_l4.eos'
+Nxyz:                                 140  140  120
+Lxyz:                                 6.52806e+08  6.52806e+08  9.94e+08
+TeffNominal:                          3800.00
+Grav:                                 10000.0
+M_H:                                  999
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t38g40mm10n3'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         ''
+FileLHDa05a10a15a20:                  't3790g40mm10a10_marcs_kiel.l50'
+                                      't3790g40mm10a10_marcs_kiel.l50'
+                                      't3790g40mm10a10_marcs_kiel.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't3800g400mm10_marcs_idmean3x.opta'
+OptaBins:                             5
+FileEOS:                              'eos_mm10_l4.eos'
+FileGAS:                              'gas_mm10.eos'
+Nxyz:                                 140  140  120
+Lxyz:                                 5.11651e+08  5.11651e+08  1.00904e+09
+TeffNominal:                          3800.00
+Grav:                                 10000.0
+M_H:                                  999
+alpha_Fe:                             1.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t40g15mm00n02'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4020g15mm00ml3a05_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           'scripts/d3t40g15mm00n02.20ss.avg_z_tau.idlsave'
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't4000g150mm00_marcs_idmean3xRT3.opta'
+OptaBins:                             5
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 2.81795e+11  2.81795e+11  4.60804e+11
+TeffNominal:                          4000.00
+Grav:                                 31.6
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t40g15mm10n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4040g15mm10ml3a05ob6_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           'scripts/d3t40g15mm10n01.20ss.avg_z_tau.idlsave'
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't4000g150mm10_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m10_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m10_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 2.81795e+11  2.81795e+11  4.60804e+11
+TeffNominal:                          4000.00
+Grav:                                 31.6
+M_H:                                  -1.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t40g15mm20n01'
+nFullFiles:                           16  0
+DirectoryFull:                        'bigsel_20ss/'   ''
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4000g15mm20ml3a05_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't4000g150mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 2.81795e+11  2.81795e+11  5.52964e+11
+TeffNominal:                          4000.00
+Grav:                                 31.6
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t40g15mm30n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't3990g15mm30ml3a05_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't4000g150mm30_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m30_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m30_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 2.81795e+11  2.81795e+11  4.60804e+11
+TeffNominal:                          4000.00
+Grav:                                 31.6
+M_H:                                  -3.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t40g45mm00n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't3960g45mm00ml3a05ob6_marcs.l50'
+                                      't3960g45mm00ml3a10ob6_marcs.l50'
+                                      't3960g45mm00ml3a10ob6_marcs_kiel.l50'
+                                      't3960g45mm00ml3a15ob6_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't4000g450mm00_marcs_idmean3xRT3.opta'
+OptaBins:                             5
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  141
+Lxyz:                                 1.23615e+08  1.23615e+08  4.73587e+08
+TeffNominal:                          4000.00
+Grav:                                 31622.8
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t40g45mm10n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4000g45mm10ml3a05_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't4000g450mm10_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m10_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m10_a04_l5.eos'
+Nxyz:                                 140  140  141
+Lxyz:                                 1.23615e+08  1.23615e+08  4.73587e+08
+TeffNominal:                          4000.00
+Grav:                                 31622.8
+M_H:                                  -1.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t40g45mm20n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4000g45mm20ml3a05_marcs.l50'
+                                      't4000g45mm20ml3a05_marcs_new.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           'scripts/d3t40g45mm20n01.20ss.avg_z_tau.idlsave'
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't4000g450mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 140  140  141
+Lxyz:                                 1.0294e+08  1.0294e+08  2.31803e+08
+TeffNominal:                          4000.00
+Grav:                                 31622.8
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t45g20mm30n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4488g20mm30ml3a05_marcs.l50'
+                                      't4488g20mm30ml3a10_marcs.l50'
+                                      't4488g20mm30ml3a20_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't4500g200mm30_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m30_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m30_a04_l5.eos'
+Nxyz:                                 200  200  200
+Lxyz:                                 6.72004e+10  6.72004e+10  1.58519e+11
+TeffNominal:                          4500.00
+Grav:                                 100.0
+M_H:                                  -3.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t45g25mm00n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4480g25mm00ml3a05_marcs.l50'
+                                      't4480g25mm00ml3a05_marcs_lr.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't4500g250mm00_marcs_idmean3xRT3.opta'
+OptaBins:                             5
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 2.95489e+10  2.95489e+10  8.5125e+10
+TeffNominal:                          4500.00
+Grav:                                 316.2
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t45g25mm10n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4490g25mm10ml3a05_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't4500g250mm10_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m10_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m10_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 2.95489e+10  2.95489e+10  8.5125e+10
+TeffNominal:                          4500.00
+Grav:                                 316.2
+M_H:                                  -1.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t45g25mm20n02'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4480g25mm20ml3a05_marcs.l50'
+                                      't4480g25mm20ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't4500g250mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 2.95489e+10  2.95489e+10  8.5125e+10
+TeffNominal:                          4500.00
+Grav:                                 316.2
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t45g25mm30n02'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4520g25mm30ml3a05_marcs.l50'
+                                      't4520g25mm30ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't4500g250mm30_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m30_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m30_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 2.95489e+10  2.95489e+10  8.5125e+10
+TeffNominal:                          4500.00
+Grav:                                 316.2
+M_H:                                  -3.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t45g40mm00n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           'scripts/d3t45g40mm00n01.20ss.avg_z_tau.idlsave'
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't4500g400mm00_marcs_idmean3xRT3.opta'
+OptaBins:                             5
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 7.24297e+08  7.24297e+08  1.7297e+09
+TeffNominal:                          4500.00
+Grav:                                 10000.0
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t45g40mm10n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         ''
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't4500g400mm10_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m10_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m10_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 7.24297e+08  7.24297e+08  1.7297e+09
+TeffNominal:                          4500.00
+Grav:                                 10000.0
+M_H:                                  -1.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t45g40mm20n01'
+nFullFiles:                           19  3
+DirectoryFull:                        'bigsel_19ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4500g40mm20ml3a05_marcs.l50'
+                                      't4500g40mm20ml3a10_marcs.l50'
+                                      't4500g40mm20ml3a15_marcs.l50'
+FileReadme:                           'bigsel_19ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't4500g400mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 7.24297e+08  7.24297e+08  1.7297e+09
+TeffNominal:                          4500.00
+Grav:                                 10000.0
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t45g40mm30n02'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_19ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4490g40mm30ml3a05_marcs.l50'
+                                      't4490g40mm30ml3a10_marcs.l50'
+                                      't4490g40mm30ml3a15_marcs.l50'
+                                      't4500g40mm30ml3a15_marcs.l50'
+FileReadme:                           'bigsel_19ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           'scripts/d3t45g40mm30n02.20ss.avg_z_tau.idlsave'
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't4500g400mm30_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m30_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m30_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 7.24297e+08  7.24297e+08  1.7297e+09
+TeffNominal:                          4500.00
+Grav:                                 10000.0
+M_H:                                  -3.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t45g45mm00n01'
+nFullFiles:                           21  3
+DirectoryFull:                        'bigsel_21ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4510g45mm00ml3a05_marcs.l50'
+FileReadme:                           'bigsel_21ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't4500g450mm00_marcs_idmean3xRT3.opta'
+OptaBins:                             5
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  141
+Lxyz:                                 1.98229e+08  1.98229e+08  4.83783e+08
+TeffNominal:                          4500.00
+Grav:                                 31622.8
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t45g45mm10n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           'scripts/d3t45g45mm10n01.20ss.avg_z_tau.idlsave'
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't4500g450mm10_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m10_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m10_a04_l5.eos'
+Nxyz:                                 140  140  141
+Lxyz:                                 1.98229e+08  1.98229e+08  4.97729e+08
+TeffNominal:                          4500.00
+Grav:                                 31622.8
+M_H:                                  -1.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t45g45mm20n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4540g45mm20ml3a05_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           'scripts/d3t45g45mm20n01.20ss.avg_z_tau.idlsave'
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't4500g450mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 140  140  141
+Lxyz:                                 1.98229e+08  1.98229e+08  4.97729e+08
+TeffNominal:                          4500.00
+Grav:                                 31622.8
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t45g45mm30n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4520g45mm30ml3a05_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't4500g450mm30_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m30_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m30_a04_l5.eos'
+Nxyz:                                 140  140  141
+Lxyz:                                 1.98229e+08  1.98229e+08  4.942e+08
+TeffNominal:                          4500.00
+Grav:                                 31622.8
+M_H:                                  -3.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t46g32mm00n01'
+nFullFiles:                           0  0
+DirectoryFull:                        ''   ''
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4580g32mm00a05_marcs.l50'
+                                      't4580g32mm00a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't4500g300mm00_marcs_idmean3xRT3.opta'
+OptaBins:                             5
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 200  200  140
+Lxyz:                                 3.56294e+09  3.56294e+09  1.09662e+10
+TeffNominal:                          4600.00
+Grav:                                 1584.9
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t48g32mm00n01'
+nFullFiles:                           20  0
+DirectoryFull:                        'selected/bigsel_20ss/'   ''
+DirectoryLHD:                         'selected/lhdmodels/'
+FileLHDa05a10a15a20:                  't4780g32mm00a05cifist.l50'
+                                      't4780g32mm00a10cifist.l50'
+                                      't4780g32mm00a15cifist.l50'
+FileReadme:                           'selected/bigsel_20ss/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'rhd.par'
+OptaTable:                            't4750g300mm00_marcs_idmean3xRT3.opta'
+OptaBins:                             5
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 200  200  140
+Lxyz:                                 3.56294e+09  3.56294e+09  1.09662e+10
+TeffNominal:                          4780.00
+Grav:                                 1584.9
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t49g20mm20n04'
+nFullFiles:                           20  0
+DirectoryFull:                        'bigsel_20ss/'   ''
+DirectoryLHD:                         ''
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           ''  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5000g20mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_mm20_l4.eos'
+FileGAS:                              'gas_mm20_l.eos'
+Nxyz:                                 175  175  200
+Lxyz:                                 7.58176e+10  7.58176e+10  1.75e+11
+TeffNominal:                          4900.00
+TeffSelection:                        999  999
+Grav:                                 100.0
+M_H:                                  999
+alpha_Fe:                             2.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t49g20mm30n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           'scripts/d3t49g20mm30n01.20ss.avg_z_tau.idlsave'
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5000g200mm30_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_mm20_l4.eos'
+FileGAS:                              'gas_mm20_l.eos'
+Nxyz:                                 175  175  200
+Lxyz:                                 7.58176e+10  7.58176e+10  1.75e+11
+TeffNominal:                          4900.00
+Grav:                                 100.0
+M_H:                                  999
+alpha_Fe:                             2.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t50g25mm00n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4970g25mm00a10_marcs.l50'
+                                      't4970g25mm00a15_marcs.l50'
+                                      't4970g25mm00a20_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           'scripts/d3t50g25mm00n01.20ss.avg_z_tau.idlsave'
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5000g250mm00_marcs_idmean3xRT3.opta'
+OptaBins:                             5
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 160  160  200
+Lxyz:                                 2.45362e+10  2.45362e+10  5.73215e+10
+TeffNominal:                          5000.00
+Grav:                                 316.2
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t50g25mm10n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4990g25mm10ml3a05_marcs.l50'
+                                      't4990g25mm10ml3a10_marcs.l50'
+                                      't4990g25mm10ml3a15_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5000g250mm10_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m10_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m10_a04_l5.eos'
+Nxyz:                                 160  160  200
+Lxyz:                                 2.45362e+10  2.45362e+10  5.73215e+10
+TeffNominal:                          5000.00
+Grav:                                 316.2
+M_H:                                  -1.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t50g25mm20n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5020g25mm20ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5000g250mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 160  160  200
+Lxyz:                                 2.45362e+10  2.45362e+10  5.84007e+10
+TeffNominal:                          5000.00
+Grav:                                 316.2
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t50g25mm25n01'
+nFullFiles:                           20  0
+DirectoryFull:                        'bigsel_20ss/'   ''
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4988g25mm25ml3a05ob6_marcs.l50'
+                                      't4988g25mm25ml3a10ob6_marcs.l50'
+                                      't4988g25mm25ml3a20ob6_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  ''
+FileMSMean:                           'scripts/d3t50g25mm25n01.bigsel_20ss.avg_z_tau.idlsave'
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5000g250mm25_marcs_idmean3xscatRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m25_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m25_a04_l5.eos'
+Nxyz:                                 160  160  200
+Lxyz:                                 2.45362e+10  2.45362e+10  5.73215e+10
+TeffNominal:                          5000.00
+Grav:                                 316.2
+M_H:                                  -2.5
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t50g25mm30n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5020g25mm30ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5000g250mm30_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m30_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m30_a04_l5.eos'
+Nxyz:                                 160  160  200
+Lxyz:                                 2.45362e+10  2.45362e+10  5.73215e+10
+TeffNominal:                          5000.00
+Grav:                                 316.2
+M_H:                                  -3.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t50g25mm30n02'
+nFullFiles:                           0  0
+DirectoryFull:                        ''   ''
+DirectoryLHD:                         ''
+FileLHDa05a10a15a20:                  't5000g25mm30ml3a10_scattering.l50'
+FileReadme:                           ''  ''
+FileMSMean:                           ''
+FilePar:                              'par/d3t50g25mm30n02.par'
+OptaTable:                            't5000g250mm30_marcs_idmean3xscatRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m30_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m30_a04_l5.eos'
+Nxyz:                                 160  160  200
+Lxyz:                                 2.45362e+10  2.45362e+10  5.73215e+10
+TeffNominal:                          5000.00
+TeffSelection:                        999  999
+Grav:                                 316.2
+M_H:                                  -3.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t50g35mm00n01'
+nFullFiles:                           19  3
+DirectoryFull:                        'bigsel_19ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4920g35mm00ml3a05_marcs.l50'
+                                      't4920g35mm00ml3a10_marcs.l50'
+FileReadme:                           'bigsel_19ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5000g350mm00_marcs_idmean3xRT3.opta'
+OptaBins:                             5
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 3.01995e+09  3.01995e+09  5.97325e+09
+TeffNominal:                          5000.00
+Grav:                                 3162.3
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t50g35mm10n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4930g35mm10ml3a05_marcs.l50'
+                                      't4930g35mm10ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5000g350mm10_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m10_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m10_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 3.01995e+09  3.01995e+09  5.97322e+09
+TeffNominal:                          5000.00
+Grav:                                 3162.3
+M_H:                                  -1.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t50g35mm20n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4980g35mm20ml3a05_marcs.l50'
+                                      't4980g35mm20ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5000g350mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 3.01995e+09  3.01995e+09  5.97323e+09
+TeffNominal:                          5000.00
+Grav:                                 3162.3
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t50g35mm30n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4980g35mm30ml3a05_marcs.l50'
+                                      't4980g35mm30ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5000g350mm30_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m30_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m30_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 3.01995e+09  3.01995e+09  5.97323e+09
+TeffNominal:                          5000.00
+Grav:                                 3162.3
+M_H:                                  -3.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t50g40mm00n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4950g40mm00ml3a05_marcs.l50'
+                                      't4950g40mm00ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5000g400mm00_marcs_idmean3xRT3.opta'
+OptaBins:                             5
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.02544e+09  1.02544e+09  1.8773e+09
+TeffNominal:                          5000.00
+Grav:                                 10000.0
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t50g40mm10n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4990g40mm10ml3a05_marcs.l50'
+                                      't4990g40mm10ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5000g400mm10_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m10_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m10_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.02544e+09  1.02544e+09  1.90412e+09
+TeffNominal:                          5000.00
+Grav:                                 10000.0
+M_H:                                  -1.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t50g40mm20n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4960g40mm20ml3a05_marcs.l50'
+                                      't4960g40mm20ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5000g400mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.02544e+09  1.02544e+09  1.90412e+09
+TeffNominal:                          5000.00
+Grav:                                 10000.0
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t50g40mm30n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4990g40mm30ml3a05_marcs.l50'
+                                      't4990g40mm30ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5000g400mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.02544e+09  1.02544e+09  1.90412e+09
+TeffNominal:                          5000.00
+Grav:                                 10000.0
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t50g45mm00n03'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4990g45mm00ml3a05ob6_marcs.l50'
+                                      't4990g45mm00ml3a10ob6_marcs.l50'
+                                      't4990g45mm00ml3a15ob6_marcs.l50'
+FileReadme:                           ''  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5000g450mm10_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m10_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m10_a04_l5.eos'
+Nxyz:                                 140  140  141
+Lxyz:                                 2.48387e+08  2.48387e+08  5.0484e+08
+TeffNominal:                          5000.00
+TeffSelection:                        999  999
+Grav:                                 31622.8
+M_H:                                  -1.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t50g45mm00n04'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5000g450mm00_marcs_idmean3xRT3.opta'
+OptaBins:                             5
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  141
+Lxyz:                                 2.48387e+08  2.48387e+08  4.942e+08
+TeffNominal:                          5000.00
+Grav:                                 31622.8
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t50g45mm10n03'
+nFullFiles:                           19  3
+DirectoryFull:                        'bigsel_19ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5060g45mm10ml3a05ob6_marcs.l50'
+                                      't5060g45mm10ml3a10ob6_marcs.l50'
+                                      't5060g45mm10ml3a15ob6_marcs.l50'
+FileReadme:                           'bigsel_19ss/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5000g450mm10_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m10_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m10_a04_l5.eos'
+Nxyz:                                 140  140  141
+Lxyz:                                 2.48502e+08  2.48502e+08  5.08446e+08
+TeffNominal:                          5000.00
+Grav:                                 31622.8
+M_H:                                  -1.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t50g45mm20n03'
+nFullFiles:                           19  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5010g45mm20ml3a05_marcs.l50'
+                                      't5010g45mm20ml3a10_marcs.l50'
+                                      't5010g45mm20ml3a15_marcs.l50'
+                                      't5010g45mm20ml3a20_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5000g450mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 140  140  141
+Lxyz:                                 2.48502e+08  2.48502e+08  5.08446e+08
+TeffNominal:                          5000.00
+Grav:                                 31622.8
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t50g45mm30n03'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't4990g45mm30ml3a05_marcs.l50'
+                                      't4990g45mm30ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5000g450mm30_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m30_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m30_a04_l5.eos'
+Nxyz:                                 140  140  141
+Lxyz:                                 2.48387e+08  2.48387e+08  5.0484e+08
+TeffNominal:                          5000.00
+Grav:                                 31622.8
+M_H:                                  -3.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t53g43mm00n01'
+nFullFiles:                           20  0
+DirectoryFull:                        'bigsel/'   ''
+DirectoryLHD:                         ''
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           'bigsel/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5250g425mm00_marcs_r0.opta'
+OptaBins:                             5
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 6.0274e+08  6.0274e+08  1.00251e+09
+TeffNominal:                          5250.00
+Grav:                                 17782.8
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t53g43mp05n01'
+nFullFiles:                           19  0
+DirectoryFull:                        'bigsel/'   ''
+DirectoryLHD:                         ''
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           'bigsel/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5250g425mp05_marcs2_r0.opta'
+OptaBins:                             5
+FileEOS:                              'eos_cifist2006_p05_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_p05_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 6.81774e+08  6.81774e+08  1.00251e+09
+TeffNominal:                          5250.00
+Grav:                                 17782.8
+M_H:                                  999
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t53g45mm05n02'
+nFullFiles:                           10  0
+DirectoryFull:                        'bigsel_10ss/'   ''
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  'd3t53g45mm05a05_marcs_r1.l50'
+                                      'd3t53g45mm05a10_marcs_r1.l50'
+                                      'd3t53g45mm05a15_marcs_r1.l50'
+FileReadme:                           'bigsel_10ss/readme.txt'  ''
+FileMSMean:                           'scripts/d3t53g45mm05n02.avg_z_tau.idlsave'
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5250g450mm05_marcs2_r1.opta'
+OptaBins:                             14
+FileEOS:                              'eos_cifist2006_m05_a02_l5.eos'
+FileGAS:                              'gas_cifist2006_m05_a02_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 3.50948e+08  3.50948e+08  5.89312e+08
+TeffNominal:                          5250.00
+Grav:                                 31622.8
+M_H:                                  -0.5
+alpha_Fe:                             0.2
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t55g25mm20n01'
+nFullFiles:                           0  0
+DirectoryFull:                        ''   ''
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5500g25mm20ml3a05_marcs.l50'
+                                      't5500g25mm20ml3a10_marcs.l50'
+                                      't5500g25mm20ml3a15_marcs.l50'
+                                      't5500g25mm20ml3a20_marcs.l50'
+FileReadme:                           ''  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5500g250mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 210  210  150
+Lxyz:                                 2.81934e+10  2.81934e+10  8.16831e+10
+TeffNominal:                          5500.00
+TeffSelection:                        999  999
+Grav:                                 316.2
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t55g25mm30n01'
+nFullFiles:                           0  0
+DirectoryFull:                        ''   ''
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           ''  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5500g250mm30_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m30_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m30_a04_l5.eos'
+Nxyz:                                 210  210  150
+Lxyz:                                 2.60884e+10  2.60884e+10  8.49504e+10
+TeffNominal:                          5500.00
+TeffSelection:                        999  999
+Grav:                                 316.2
+M_H:                                  -3.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t55g35mm00n01'
+nFullFiles:                           18  3
+DirectoryFull:                        'bigsel_18ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5430g35mm00ml3a05ob6_marcs.l50'
+                                      't5430g35mm00ml3a10ob6_marcs.l50'
+                                      't5430g35mm00ml3a15ob6_marcs.l50'
+FileReadme:                           'bigsel_18ss/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5500g350mm00_marcs_idmean3xRT3.opta'
+OptaBins:                             5
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 3.58506e+09  3.58506e+09  4.9e+09
+TeffNominal:                          5500.00
+Grav:                                 3162.3
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t55g35mm10n01'
+nFullFiles:                           19  3
+DirectoryFull:                        'bigsel_19ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5480g35mm10ml3a05ob6_marcs.l50'
+                                      't5480g35mm10ml3a10ob6_marcs.l50'
+                                      't5480g35mm10ml3a15ob6_marcs.l50'
+FileReadme:                           'bigsel_19ss/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5500g350mm10_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m10_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m10_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 3.58408e+09  3.58408e+09  4.9e+09
+TeffNominal:                          5500.00
+Grav:                                 3162.3
+M_H:                                  -1.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t55g35mm20n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5500g35mm20ml3a05ob6_marcs.l50'
+                                      't5500g35mm20ml3a10ob6_marcs.l50'
+                                      't5500g35mm20ml3a20ob6_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5500g350mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 3.58506e+09  3.58506e+09  4.9e+09
+TeffNominal:                          5500.00
+Grav:                                 3162.3
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t55g35mm30n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5540g35mm30ml3a05_marcs.l50'
+                                      't5540g35mm30ml3a10ob6_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5500g350mm30_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m30_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m30_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 3.58408e+09  3.58408e+09  4.9e+09
+TeffNominal:                          5500.00
+Grav:                                 3162.3
+M_H:                                  -3.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t55g40mm00n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5480g40mm00ml3a05_marcs.l50'
+                                      't5480g40mm00ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5500g400mm00_marcs_idmean3xRT3.opta'
+OptaBins:                             5
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.05817e+09  1.05817e+09  2.03394e+09
+TeffNominal:                          5500.00
+Grav:                                 10000.0
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t55g40mm10n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5530g40mm10ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5500g400mm10_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m10_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m10_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.05817e+09  1.05817e+09  1.99068e+09
+TeffNominal:                          5500.00
+Grav:                                 10000.0
+M_H:                                  -1.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t55g40mm20n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5470g40mm20ml3a05_marcs.l50'
+                                      't5470g40mm20ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5500g400mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.05817e+09  1.05817e+09  2.0053e+09
+TeffNominal:                          5500.00
+Grav:                                 10000.0
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t55g40mm30n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5480g40mm30ml3a05_marcs.l50'
+                                      't5480g40mm30ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5500g400mm30_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m30_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m30_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.05817e+09  1.05817e+09  2.03394e+09
+TeffNominal:                          5500.00
+Grav:                                 10000.0
+M_H:                                  -3.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t55g45mm00n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5490g45mm00ml3a05_marcs.l50'
+                                      't5490g45mm00ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5500g450mm00_marcs_idmean3xRT3.opta'
+OptaBins:                             5
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 3.50948e+08  3.50948e+08  5.89312e+08
+TeffNominal:                          5500.00
+Grav:                                 31622.8
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t55g45mm10n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5470g45mm10ml3a05_marcs.l50'
+                                      't5470g45mm10ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5500g450mm10_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m10_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m10_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 3.50948e+08  3.50948e+08  5.89312e+08
+TeffNominal:                          5500.00
+Grav:                                 31622.8
+M_H:                                  -1.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t55g45mm20n01'
+nFullFiles:                           20  0
+DirectoryFull:                        'bigsel_20ss/'   ''
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5480g45mm20ml3a05_marcs.l50'
+                                      't5480g45mm20ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5500g450mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 3.50948e+08  3.50948e+08  5.89312e+08
+TeffNominal:                          5500.00
+Grav:                                 31622.8
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t55g45mm30n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5490g45mm30ml3a05_marcs.l50'
+                                      't5490g45mm30ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5500g450mm30_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m30_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m30_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 3.50948e+08  3.50948e+08  5.89312e+08
+TeffNominal:                          5500.00
+Grav:                                 31622.8
+M_H:                                  -3.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t57g37mm20n01'
+nFullFiles:                           20  0
+DirectoryFull:                        'bigsel_20ss/'   ''
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5775g37mm20ml3a05ob6_marcs.l50'
+                                      't5775g37mm20ml3a10ob6_marcs.l50'
+                                      't5775g37mm20ml3a20ob6_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  ''
+FileMSMean:                           'scripts/d3t57g37mm20n01.bigsel_20ss.avg_z_tau.idlsave'
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5750g370mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 2.2462e+09  2.2462e+09  3.67062e+09
+TeffNominal:                          5750.00
+Grav:                                 5011.9
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t57g37mm20n02'
+nFullFiles:                           20  0
+DirectoryFull:                        'bigsel_20ss/'   ''
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5775g37mm20ml3a05ob6_marcs.l50'
+                                      't5775g37mm20ml3a10ob6_marcs.l50'
+                                      't5775g37mm20ml3a20ob6_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  ''
+FileMSMean:                           'scripts/d3t57g37mm20n02.bigsel_20ss.avg_z_tau.idlsave'
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5750g370mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 280  280  300
+Lxyz:                                 2.23345e+09  2.23345e+09  3.65747e+09
+TeffNominal:                          5750.00
+Grav:                                 5011.9
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t57g37mm20n03'
+nFullFiles:                           20  0
+DirectoryFull:                        'bigsel_20ss/'   ''
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5775g37mm20ml3a05ob14_marcs.l50'
+                                      't5775g37mm20ml3a10ob14_marcs.l50'
+                                      't5775g37mm20ml3a20ob14_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  ''
+FileMSMean:                           'scripts/d3t57g37mm20n03.bigsel_20ss.avg_z_tau.idlsave'
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5750g370mm20_marcs_idmean3xRT3_14.opta'
+OptaBins:                             14
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 280  280  300
+Lxyz:                                 2.23345e+09  2.23345e+09  3.65747e+09
+TeffNominal:                          5750.00
+Grav:                                 5011.9
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t57g37mm25n01'
+nFullFiles:                           20  0
+DirectoryFull:                        'bigsel/'   ''
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5790g37mm25a05_marcs.l50'
+                                      't5790g37mm25a10_marcs.l50'
+                                      't5790g37mm25a15_marcs.l50'
+FileReadme:                           'bigsel/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5750g370mm25_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m25_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m25_a04_l5.eos'
+Nxyz:                                 280  280  300
+Lxyz:                                 2.23345e+09  2.23345e+09  3.65747e+09
+TeffNominal:                          5750.00
+Grav:                                 5011.9
+M_H:                                  -2.5
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t57g37mm25n02'
+nFullFiles:                           19  0
+DirectoryFull:                        'bigsel/'   ''
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5793g37mm25a05_marcs_r1.l50'
+                                      't5793g37mm25a10_marcs_r1.l50'
+                                      't5793g37mm25a15_marcs_r1.l50'
+                                      't5793g37mm25a20_marcs_r1.l50'
+FileReadme:                           'bigsel/readme.txt'  ''
+FileMSMean:                           'scripts/d3t57g37mm25n02.avg_z_tau.idlsave'
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5750g370mm25_marcs_r1.opta'
+OptaBins:                             14
+FileEOS:                              'eos_cifist2006_m25_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m25_a04_l5.eos'
+Nxyz:                                 280  280  300
+Lxyz:                                 2.23345e+09  2.23345e+09  3.65747e+09
+TeffNominal:                          5750.00
+Grav:                                 5011.9
+M_H:                                  -2.5
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t57g37mm30n01'
+nFullFiles:                           20  0
+DirectoryFull:                        'bigsel_20ss/'   ''
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5789g37mm30ml3a05ob6_marcs.l50'
+                                      't5789g37mm30ml3a10ob6_marcs.l50'
+                                      't5789g37mm30ml3a20ob6_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  ''
+FileMSMean:                           'scripts/d3t57g37mm30n01.bigsel_20ss.avg_z_tau.idlsave'
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5750g370mm30_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m30_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m30_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 2.2462e+09  2.2462e+09  3.67062e+09
+TeffNominal:                          5750.00
+Grav:                                 5011.9
+M_H:                                  -3.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t57g37mm30n02-1'
+nFullFiles:                           20  0
+DirectoryFull:                        'bigsel_20ss/'   ''
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5786g37mm30ml3a05ob14_marcs.l50'
+                                      't5786g37mm30ml3a10ob14_marcs.l50'
+                                      't5786g37mm30ml3a20ob14_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  ''
+FileMSMean:                           'scripts/d3t57g37mm30n02-1.bigsel_20ss.avg_z_tau.idlsave'
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5750g370mm30_marcs_idmean3xRT3_14.opta'
+OptaBins:                             14
+FileEOS:                              'eos_cifist2006_m30_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m30_a04_l5.eos'
+Nxyz:                                 280  280  300
+Lxyz:                                 2.23345e+09  2.23345e+09  3.65747e+09
+TeffNominal:                          5750.00
+Grav:                                 5011.9
+M_H:                                  -3.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t57g37mm30n02-2'
+nFullFiles:                           20  0
+DirectoryFull:                        'bigsel_20ss/'   ''
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5786g37mm30ml3a05ob14_marcs.l50'
+                                      't5786g37mm30ml3a10ob14_marcs.l50'
+                                      't5786g37mm30ml3a20ob14_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  ''
+FileMSMean:                           'scripts/d3t57g37mm30n02-2.bigsel_20ss.avg_z_tau.idlsave'
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5750g370mm30_marcs_idmean3xRT3_14.opta'
+OptaBins:                             14
+FileEOS:                              'eos_cifist2006_m30_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m30_a04_l5.eos'
+Nxyz:                                 280  280  300
+Lxyz:                                 2.23345e+09  2.23345e+09  3.65747e+09
+TeffNominal:                          5750.00
+Grav:                                 5011.9
+M_H:                                  -3.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t57g44mm10n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5750g450mm10_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m10_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m10_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 2.26891e+08  2.26891e+08  5.89312e+08
+TeffNominal:                          5770.00
+Grav:                                 27500.0
+M_H:                                  -1.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t57g44mm20n01'
+nFullFiles:                           0  0
+DirectoryFull:                        ''   ''
+DirectoryLHD:                         ''
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           ''  ''
+FileMSMean:                           ''
+FilePar:                              'rhd.par'
+OptaTable:                            't5750g450mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_mm20_l4.eos'
+FileGAS:                              'gas_mm20_l.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 2.26891e+08  2.26891e+08  5.6e+08
+TeffNominal:                          5770.00
+TeffSelection:                        999  999
+Grav:                                 27500.0
+M_H:                                  999
+alpha_Fe:                             2.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t57g44mm20n02'
+nFullFiles:                           19  3
+DirectoryFull:                        'bigsel_19ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           'bigsel_19ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5750g450mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 2.26891e+08  2.26891e+08  5.48197e+08
+TeffNominal:                          5770.00
+Grav:                                 27500.0
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t57g44mm20n03'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5730g444a10mm20ml3ob12_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't5750g450mm20_marcs_idmean3x_12.opta'
+OptaBins:                             12
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 2.26891e+08  2.26891e+08  5.48197e+08
+TeffNominal:                          5770.00
+Grav:                                 27500.0
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t59g35mm00n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5880g35mm00ml3a05_marcs.l50'
+                                      't5880g35mm00ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6000g350mm00_marcs_idmean3xRT3.opta'
+OptaBins:                             5
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 3.86583e+09  3.86583e+09  8.89631e+09
+TeffNominal:                          5900.00
+Grav:                                 3162.3
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t59g35mm10n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5890g35mm10ml3a05_marcs.l50'
+                                      't5890g35mm10ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6000g350mm10_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m10_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m10_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 3.86583e+09  3.86583e+09  8.8963e+09
+TeffNominal:                          5900.00
+Grav:                                 3162.3
+M_H:                                  -1.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t59g35mm20n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5860g35mm20a05_marcs.l50'
+                                      't5860g35mm20a10_marcs.l50'
+                                      't5860g35mm20a20_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6000g350mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 3.86583e+09  3.86583e+09  5.93086e+09
+TeffNominal:                          5900.00
+Grav:                                 3162.3
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t59g35mm30n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5870g35mm30ml3a05_marcs.l50'
+                                      't5870g35mm30ml3a10_marcs.l50'
+                                      't5870g35mm30ml3a15_marcs.l50'
+                                      't5870g35mm30ml3a20_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6000g350mm30_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m30_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m30_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 3.86583e+09  3.86583e+09  5.93086e+09
+TeffNominal:                          5900.00
+Grav:                                 3162.3
+M_H:                                  -3.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t59g40mm00n01'
+nFullFiles:                           18  3
+DirectoryFull:                        'bigsel_18ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5930g40mm00ml3a05ob6_marcs.l50'
+                                      't5930g40mm00ml3a10ob6_marcs.l50'
+                                      't5930g40mm00ml3a15ob6_marcs.l50'
+FileReadme:                           'bigsel_18ss/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6000g400mm00_marcs_idmean3xRT3.opta'
+OptaBins:                             5
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.27463e+09  1.27463e+09  2.60033e+09
+TeffNominal:                          5900.00
+Grav:                                 10000.0
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t59g40mm10n01'
+nFullFiles:                           18  3
+DirectoryFull:                        'bigsel_18ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5850g40mm10ml3a05ob6_marcs.l50'
+                                      't5850g40mm10ml3a10ob6_marcs.l50'
+                                      't5850g40mm10ml3a15ob6_marcs.l50'
+FileReadme:                           'bigsel_18ss/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6000g450mm10_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m10_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m10_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.27463e+09  1.27463e+09  2.60033e+09
+TeffNominal:                          5900.00
+Grav:                                 10000.0
+M_H:                                  -1.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t59g40mm10n02'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5850g40mm10ml3a05ob6_marcs.l50'
+                                      't5850g40mm10ml3a10ob6_marcs.l50'
+                                      't5850g40mm10ml3a15ob6_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6000g400mm10_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m10_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m10_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.27463e+09  1.27463e+09  2.60033e+09
+TeffNominal:                          5900.00
+Grav:                                 10000.0
+M_H:                                  -1.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t59g40mm20n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         ''
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           'bigsel_20ss/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6000g450mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.27463e+09  1.27463e+09  2.60033e+09
+TeffNominal:                          5900.00
+Grav:                                 10000.0
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t59g40mm20n02'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5860g40mm20ml3a05_marcs.l50'
+                                      't4960g40mm20ml3a10_marcs.l50'
+                                      't5860g40mm20ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6000g400mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.27463e+09  1.27463e+09  2.60033e+09
+TeffNominal:                          5900.00
+Grav:                                 10000.0
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t59g40mm30n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           'bigsel_20ss/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6000g450mm30_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m30_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m30_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.27463e+09  1.27463e+09  2.60033e+09
+TeffNominal:                          5900.00
+Grav:                                 10000.0
+M_H:                                  -3.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t59g40mm30n02'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5850g40mm30ml3a05_marcs.l50'
+                                      't5850g40mm30ml3a10_marcs.l50'
+                                      't5850g40mm30ml3a15_marcs.l50'
+                                      't5850g40mm30ml3a20_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6000g400mm30_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m30_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m30_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.27463e+09  1.27463e+09  2.60033e+09
+TeffNominal:                          5900.00
+Grav:                                 10000.0
+M_H:                                  -3.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t59g45mm00n01'
+nFullFiles:                           19  3
+DirectoryFull:                        'bigsel_19ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5870g45mm00ml3a05ob6_marcs.l50'
+                                      't5870g45mm00ml3a10ob6_marcs.l50'
+                                      't5870g45mm00ml3a15ob6_marcs.l50'
+FileReadme:                           'bigsel_19ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6000g450mm00_marcs_idmean3xRT3.opta'
+OptaBins:                             5
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 3.84166e+08  3.84166e+08  6.02e+08
+TeffNominal:                          5900.00
+Grav:                                 31622.8
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t59g45mm10n01'
+nFullFiles:                           8  0
+DirectoryFull:                        'bigsel_8ss/'   ''
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5920g45mm10ml3a05ob6_marcs.l50'
+                                      't5920g45mm10ml3a10ob6_marcs.l50'
+                                      't5920g45mm10ml3a15ob6_marcs.l50'
+FileReadme:                           'bigsel_8ss/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6000g450mm10_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m10_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m10_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 3.84166e+08  3.84166e+08  6.02e+08
+TeffNominal:                          5900.00
+Grav:                                 31622.8
+M_H:                                  -1.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t59g45mm20n01'
+nFullFiles:                           18  3
+DirectoryFull:                        'bigsel_18ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't5920g45mm20ml3a05_marcs.l50'
+                                      't5920g45mm20ml3a10_marcs.l50'
+                                      't5920g45mm20ml3a15_marcs.l50'
+FileReadme:                           'bigsel_18ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6000g450mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 3.84166e+08  3.84166e+08  6.02e+08
+TeffNominal:                          5900.00
+Grav:                                 31622.8
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t59g45mm30n01'
+nFullFiles:                           19  0
+DirectoryFull:                        'bigsel_19ss/'   ''
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           ''  ''
+FileMSMean:                           'd3t59g45mm30n01.snaps.avg_z_tau.idlsave'
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6000g450mm30_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 3.84166e+08  3.84166e+08  6.02e+08
+TeffNominal:                          5900.00
+TeffSelection:                        999  999
+Grav:                                 31622.8
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t63g35mm10n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't621035mm10ml3a05_marcs.l50'
+                                      't6210g35mm10ml3a05_marcs.l50'
+                                      't621035mm10ml3a10_marcs.l50'
+                                      't6210g35mm10ml3a10_marcs.l50'
+FileReadme:                           ''  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6250g350mm10_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m10_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m10_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 5.55959e+09  5.55959e+09  8.68665e+09
+TeffNominal:                          6250.00
+Grav:                                 3162.3
+M_H:                                  -1.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t63g35mm20n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't6290g35mm20ml3a05_marcs.l50'
+                                      't6290g35mm20ml3a10_marcs.l50'
+FileReadme:                           ''  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6250g350mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 5.84996e+09  5.84996e+09  8.68665e+09
+TeffNominal:                          6250.00
+Grav:                                 3162.3
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t63g35mm30n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't6310g35mm30ml3a05_marcs.l50'
+                                      't6310g35mm30ml3a10_marcs.l50'
+                                      't6310g35mm30ml3a15_marcs.l50'
+                                      't6310g35mm30ml3a20_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           'scripts/d3t63g35mm30n01.20ss.avg_z_tau.idlsave'
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6250g350mm30_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m30_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m30_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 5.55959e+09  5.55959e+09  8.62504e+09
+TeffNominal:                          6250.00
+Grav:                                 3162.3
+M_H:                                  -3.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t63g40mm00n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't6230g40mm00ml3a05_marcs.l50'
+                                      't6230g40mm00ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6250g400mm00_marcs_idmean3xRT3.opta'
+OptaBins:                             5
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.28483e+09  1.28483e+09  2.55329e+09
+TeffNominal:                          6250.00
+Grav:                                 10000.0
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t63g40mm00n02'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't6230g40mm00ml3a05_b12_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6250g400mm00_marcs_idmean3xRT3_12.opta'
+OptaBins:                             12
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.28483e+09  1.28483e+09  2.55329e+09
+TeffNominal:                          6250.00
+Grav:                                 10000.0
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t63g40mm10n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't6260g40mm10ml3a05_marcs.l50'
+                                      't6260g40mm10ml3a10_marcs.l50'
+                                      't6260g40mm10a15ob6_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6250g400mm10_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m10_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m10_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.28483e+09  1.28483e+09  2.60826e+09
+TeffNominal:                          6250.00
+Grav:                                 10000.0
+M_H:                                  -1.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t63g40mm10n02'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6250g400mm10_marcs_idmean3xRT3_12.opta'
+OptaBins:                             12
+FileEOS:                              'eos_cifist2006_m10_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m10_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.28483e+09  1.28483e+09  2.60826e+09
+TeffNominal:                          6250.00
+Grav:                                 10000.0
+M_H:                                  -1.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t63g40mm20n01'
+nFullFiles:                           16  3
+DirectoryFull:                        'bigsel_16ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't6280g40mm20a05ob6_marcs.l50'
+                                      't6280g400a15mm20ob6.l50'
+                                      't6376g400a100mm20ml3ob6v00.l50'
+FileReadme:                           'bigsel_16ss/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6250g400mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.28483e+09  1.28483e+09  2.60826e+09
+TeffNominal:                          6250.00
+Grav:                                 10000.0
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t63g40mm20n02'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6250g400mm20_marcs_idmean3xRT3_12.opta'
+OptaBins:                             12
+FileEOS:                              'eos_cifist2006_m30_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m30_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.28483e+09  1.28483e+09  2.60826e+09
+TeffNominal:                          6250.00
+Grav:                                 10000.0
+M_H:                                  -3.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t63g40mm30n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't6270g40mm30ml3a05_marcs.l50'
+                                      't6270g40mm30ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6250g400mm30_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m30_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m30_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.28483e+09  1.28483e+09  2.60826e+09
+TeffNominal:                          6250.00
+Grav:                                 10000.0
+M_H:                                  -3.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t63g40mm30n02'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6250g400mm30_marcs_idmean3xRT3_12.opta'
+OptaBins:                             12
+FileEOS:                              'eos_cifist2006_m30_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m30_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.28483e+09  1.28483e+09  2.60826e+09
+TeffNominal:                          6250.00
+Grav:                                 10000.0
+M_H:                                  -3.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t63g40mm30n03'
+nFullFiles:                           0  0
+DirectoryFull:                        ''   ''
+DirectoryLHD:                         ''
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           ''  ''
+FileMSMean:                           ''
+FilePar:                              ''
+OptaTable:                            ''
+OptaBins:                             999
+FileEOS:                              ''
+FileGAS:                              ''
+Nxyz:                                 999  999  999
+Lxyz:                                 999  999  999
+TeffNominal:                          999
+TeffSelection:                        999  999
+Grav:                                 999
+M_H:                                  999
+alpha_Fe:                             999
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t63g40mm30n04'
+nFullFiles:                           0  0
+DirectoryFull:                        ''   ''
+DirectoryLHD:                         ''
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           ''  ''
+FileMSMean:                           ''
+FilePar:                              ''
+OptaTable:                            ''
+OptaBins:                             999
+FileEOS:                              ''
+FileGAS:                              ''
+Nxyz:                                 999  999  999
+Lxyz:                                 999  999  999
+TeffNominal:                          999
+TeffSelection:                        999  999
+Grav:                                 999
+M_H:                                  999
+alpha_Fe:                             999
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t63g45mm00n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't6230g45mm00ml3a05ob6_marcs.l50'
+                                      't6230g45mm00ml3a10ob6_marcs.l50'
+                                      't6230g45mm00ml3a15ob6_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6250g450mm00_marcs_idmean3xRT3.opta'
+OptaBins:                             5
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 4.01507e+08  4.01507e+08  7e+08
+TeffNominal:                          6250.00
+Grav:                                 31622.8
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t63g45mm10n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't6240g45mm10ml3a05ob6_marcs.l50'
+                                      't6240g45mm10ml3a10ob6_marcs.l50'
+                                      't6240g45mm10ml3a15ob6_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6250g450mm10_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m10_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m10_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 4.01507e+08  4.01507e+08  7e+08
+TeffNominal:                          6250.00
+Grav:                                 31622.8
+M_H:                                  -1.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t63g45mm20n01'
+nFullFiles:                           19  0
+DirectoryFull:                        'bigsel19ss/'   ''
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't6320g45mm20ml3a05ob6_marcs.l50'
+                                      't6320g45mm20ml3a10ob6_marcs.l50'
+                                      't6320g45mm20ml3a15ob6_marcs.l50'
+                                      't6320g45mm20ml3a20ob6_marcs.l50'
+FileReadme:                           'bigsel19ss/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6250g450mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 4.01507e+08  4.01507e+08  7e+08
+TeffNominal:                          6250.00
+Grav:                                 31622.8
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t63g45mm30n01'
+nFullFiles:                           18  3
+DirectoryFull:                        'bigsel_18ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't6270g45mm30ml3a05ob6_marcs.l50'
+                                      't6270g45mm30ml3a10ob6_marcs.l50'
+FileReadme:                           'bigsel_18ss/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6250g450mm30_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m30_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m30_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 4.01507e+08  4.01507e+08  7e+08
+TeffNominal:                          6250.00
+Grav:                                 31622.8
+M_H:                                  -3.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t64g43mm00n01'
+nFullFiles:                           20  0
+DirectoryFull:                        'bigsel/'   ''
+DirectoryLHD:                         ''
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           'bigsel/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6500g425mm00_marcs_r0.opta'
+OptaBins:                             5
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 8.32561e+08  8.32561e+08  1.4808e+09
+TeffNominal:                          6400.00
+Grav:                                 17782.8
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t65g40mm00n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6500g400mm00_marcs_idmean3xRT3.opta'
+OptaBins:                             5
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.49263e+09  1.49263e+09  2.89555e+09
+TeffNominal:                          6500.00
+Grav:                                 10000.0
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t65g40mm10n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't6500g40mm10ml3a05_marcs.l50'
+                                      't6500g40mm10ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6500g400mm10_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m10_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m10_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.49263e+09  1.49263e+09  2.89555e+09
+TeffNominal:                          6500.00
+Grav:                                 10000.0
+M_H:                                  -1.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t65g40mm20n01'
+nFullFiles:                           19  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't6530g40mm20ml3a05_marcs.l50'
+                                      't6530g40mm20ml3a10_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6250g400mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.49263e+09  1.49263e+09  2.95789e+09
+TeffNominal:                          6500.00
+Grav:                                 10000.0
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t65g40mm30n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't6410g40mm30ml3a05_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6500g400mm30_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m30_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m30_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 1.49263e+09  1.49263e+09  2.89555e+09
+TeffNominal:                          6500.00
+Grav:                                 10000.0
+M_H:                                  -3.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t65g45mm00n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't6460g45mm00ml3a05ob6_marcs.l50'
+                                      't6460g45mm00ml3a10ob6_marcs.l50'
+                                      't6460g45mm00ml3a15ob6_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6500g450mm00_marcs_idmean3xRT3.opta'
+OptaBins:                             5
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 4.03165e+08  4.03165e+08  8.4e+08
+TeffNominal:                          6500.00
+Grav:                                 31622.8
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t65g45mm10n01'
+nFullFiles:                           19  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't6460g45mm10ml3a05ob6_marcs.l50'
+                                      't6460g45mm10ml3a10ob6_marcs.l50'
+                                      't6460g45mm10ml3a15ob6_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6500g450mm10_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m10_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m10_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 4.03165e+08  4.03165e+08  8.4e+08
+TeffNominal:                          6500.00
+Grav:                                 31622.8
+M_H:                                  -1.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t65g45mm20n01'
+nFullFiles:                           19  0
+DirectoryFull:                        'bigsel_19ss/'   ''
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't6530g45mm20ml3a05_marcs.l50'
+                                      't6530g45mm20ml3a10_marcs.l50'
+FileReadme:                           'bigsel_19ss/readme.txt'  ''
+FileMSMean:                           ''
+FilePar:                              'rhd.par'
+OptaTable:                            't6500g450mm20_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 4.03165e+08  4.03165e+08  8.4e+08
+TeffNominal:                          6500.00
+Grav:                                 31622.8
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t65g45mm30n01'
+nFullFiles:                           12  0
+DirectoryFull:                        'bigsel_12ss/'   ''
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           ''  ''
+FileMSMean:                           'd3t65g45mm30n01.snaps.avg_z_tau.idlsave'
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6500g450mm30_marcs_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m20_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m20_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 4.03165e+08  4.03165e+08  8.4e+08
+TeffNominal:                          6500.00
+TeffSelection:                        999  999
+Grav:                                 31622.8
+M_H:                                  -2.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t68g43mm00n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  't6730g43mm00ml3a05_marcs.l50'
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           'scripts/d3t68g43mm00n01.a0-i9.avg_z_tau.idlsave'
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6750g425mm00_marcs2_idmean3xRT3.opta'
+OptaBins:                             5
+FileEOS:                              'eos_cifist2006_m00_a00_l5.eos'
+FileGAS:                              'gas_cifist2006_m00_a00_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 2.47153e+09  2.47153e+09  1.64459e+09
+TeffNominal:                          6750.00
+Grav:                                 17782.8
+M_H:                                  0.0
+alpha_Fe:                             0.0
+CNO_Fe:                               999  999  999
+
+ModelID:                              'd3t68g43mm10n01'
+nFullFiles:                           20  3
+DirectoryFull:                        'bigsel_20ss/'   'mallsel_3ss/'
+DirectoryLHD:                         'lhdmodels/'
+FileLHDa05a10a15a20:                  ''
+FileReadme:                           'bigsel_20ss/readme.txt'  'smallsel_3ss/readme.txt'
+FileMSMean:                           'scripts/d3t68g43mm10n01.20ss.avg_z_tau.idlsave'
+FilePar:                              'scripts/rhd.par'
+OptaTable:                            't6750g425mm10_marcs2_idmean3xRT3.opta'
+OptaBins:                             6
+FileEOS:                              'eos_cifist2006_m10_a04_l5.eos'
+FileGAS:                              'gas_cifist2006_m10_a04_l5.eos'
+Nxyz:                                 140  140  150
+Lxyz:                                 2.47153e+09  2.47153e+09  1.60993e+09
+TeffNominal:                          6750.00
+Grav:                                 17782.8
+M_H:                                  -1.0
+alpha_Fe:                             0.4
+CNO_Fe:                               999  999  999
+
